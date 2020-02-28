@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+As a bachelor of applied math, only familiar with python and shell, learning code and on the way to be a better programmer. I like linux and is happy to explore in linux. Thanks.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zengqingfu1442@qq.com](mailto:zengqingfu1442@qq.com)
